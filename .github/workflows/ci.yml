@@ -10,3 +10,4 @@ jobs:
       - run: npm install
       - run: npm run lint
       - run: npm test
+      - uses: hexlet-components/hello-from-hexlet-action@release
